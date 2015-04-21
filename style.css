@@ -1,0 +1,24 @@
+body {
+	font: 18px/17px 'Quicksand';
+	color: #354458;
+	background-color: #e9e0d6;
+}
+
+button {
+	color: #eee;
+	font: 1.05em/1.5em 'Quicksand';
+	background-color: #354458;
+	border: 1px solid black;
+	border-radius: 3px;
+}
+
+.wood {
+	color: #eee;
+	font: 1.5em/1.5em 'Quicksand';
+	background-color: #5e412f  ;
+	border: 1px solid black;
+	border-radius: 3px;
+	height: 200px;
+	padding: 10px;
+	margin: 10px;
+}
